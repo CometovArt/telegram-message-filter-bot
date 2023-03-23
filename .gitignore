@@ -2,3 +2,4 @@ service/
 config.py
 *.jpg
 __pycache__/
+*.swp
