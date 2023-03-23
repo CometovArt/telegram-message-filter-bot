@@ -6,7 +6,7 @@ import re
 import time
 from datetime import datetime, timedelta
 
-# текст для проверки синхронизации 2
+# текст для проверки синхронизации 3
 
 # https://apscheduler.readthedocs.io/en/3.x/modules/schedulers/asyncio.html
 from apscheduler.schedulers.asyncio import AsyncIOScheduler
