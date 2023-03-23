@@ -1,0 +1,4 @@
+service/
+config.py
+*.jpg
+__pycache__/
